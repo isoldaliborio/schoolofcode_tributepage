@@ -1,0 +1,48 @@
+
+h1 {
+    font-family: Helvetica, Oswald, Verdana;
+    font-size: 40;
+  }
+  h2 {
+    font-family: IBM, verdana;
+    font-size: 18;
+  }
+  p{
+    font-family: IBM, verdana;
+    font-size:14px;
+  }
+  
+  .orange-text{color:#283747;
+  }
+  .azulnave-text{color:#E67E22;
+  }
+  #image {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    max-width: 100%;
+    display: block;
+  }
+  #main {
+    background: #E5E7E9;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #img-div {
+    background: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 70px;
+  }
+  
+  #img-caption {
+   font-family: IBM, verdana;
+    font-size:14px
+  }
+  #verbete {
+    font-style: italic;
+  }
+  #verbete span {    font-style: normal; font-weight: bold;
+  }
